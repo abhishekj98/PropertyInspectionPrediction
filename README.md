@@ -1,4 +1,5 @@
 # PropertyInspectionPrediction
+# Machine learning algorithms used>>> Random forest model, Gradient boosting model
 
 A Fortune 100 company, Liberty Mutual Insurance has provided a wide range of insurance products and services designed to meet their customers' ever-changing needs for over 100 years.
 
