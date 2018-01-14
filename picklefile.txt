@@ -1,0 +1,15 @@
+Pickle file creation and loading
+
+
+#Creation
+
+from sklearn.externals import joblib
+joblib.dump(model, 'trained_house_classifier_model.pkl')
+
+
+#opening pickle file
+
+import pickle
+pickle_in=open("trained_house_classifier_model.pkl","rb")
+abhi=pickle.load(pickle_in)
+print(abhi)
